@@ -1,0 +1,24 @@
+{
+  "name": "tasklist",
+  "version": "1.0.0",
+  "description": "this my first time working with react ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-ghost2307/react-intro.git"
+  },
+  "keywords": [
+    "react",
+    "tanishqa",
+    "amazing"
+  ],
+  "author": "tanishqa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-ghost2307/react-intro/issues"
+  },
+  "homepage": "https://github.com/code-ghost2307/react-intro#readme"
+}
